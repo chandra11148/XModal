@@ -51,7 +51,7 @@ function ShowModal({ handleToggle }) {
             <label htmlFor="dob">Date of Birth:</label>
             <input required id="dob" type="date" name="dob" value={userDetails.dob} onChange={handleInputChange}/>
           </div>
-          <button type="submit" className="modal-btn">Submit</button>
+          <button type="submit" className="submit-button">Submit</button>
         </form>
       </div>
       </div>
