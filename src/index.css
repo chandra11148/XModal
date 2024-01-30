@@ -28,7 +28,7 @@
   width: 100vw;
   background-color: rgba(189, 189, 189, 0.8);
 }
-.modal-content{
+.modal{
   position: fixed;
 
   text-align: center;

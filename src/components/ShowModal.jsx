@@ -35,9 +35,9 @@ function ShowModal({ handleToggle }) {
   };
   return (
     <>
-      
-      <div className="modal">
       <div className="modal-overlay" onClick={handleToggle}></div>
+      <div className="modal">
+      
         <div className="modal-content">
           <h2>Fill Details</h2>
           <br></br>
